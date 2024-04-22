@@ -1,7 +1,5 @@
-import 'package:flutter/cupertino.dart';
-import 'package:flutter/material.dart';
-import 'package:whatsapp_clone/src/screens/update/update_screen.dart';
 
+import 'package:flutter/material.dart';
 class BottomNavigation extends StatefulWidget {
   const BottomNavigation({
     super.key,
